@@ -13,7 +13,7 @@ author:
   username: username # general username
   github: stellawangg<a href='https://github.com/stellaWangg'></a> # github username
   email: stellawang827@gmail.com # email adress
-  avatar: "./assests/img/blog-avatar.JPG" # change with your own avatar
+  avatar: /assets/img/blog-avatar.JPG # change with your own avatar
 
 # URL settings
 url: "https://stellawangg.github.io/"
