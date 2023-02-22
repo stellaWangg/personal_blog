@@ -1,0 +1,79 @@
+# Site settings
+title: Stella Wang # site title
+lang: English # default lang
+timezone: Ireland # set your timezone
+image: https://live.staticflickr.com/65535/52634774075_e81526ef6b_z.jpg
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Stella Wang
+  bio: >- # tell to the world
+    Sometimes I’m terrified of my heart, of its constant hunger for whatever it is it wants; the way it stops and starts.
+  username: username # general username
+  github: stellawangg<a href='https://github.com/stellaWangg'></a> # github username
+  email: stellawang827@gmail.com # email adress
+  avatar: https://live.staticflickr.com/65535/52634774075_e81526ef6b_z.jpg # change with your own avatar
+
+# URL settings
+url: "https://stellawangg.github.io/"
+permalink: /:title/
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
