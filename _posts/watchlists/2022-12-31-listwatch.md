@@ -1,6 +1,6 @@
 ---
 title: 2022 watchlist ✈️
-date: 2023-01-06
+date: 2022-12-31
 tag: [blog]
 description: my watchlist for 2022
 ---
