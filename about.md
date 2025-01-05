@@ -10,7 +10,7 @@ She/her🩵👩
 
 Locate in Dublin, IE.
 
-🩵🩵🩵 https://en.wikipedia.org/wiki/I_want_a_president#/media/File:Highline_art_Zoe_Leonard.jpg
+🩵🩵🩵 [I want a president](https://en.wikipedia.org/wiki/I_want_a_president#/media/File:Highline_art_Zoe_Leonard.jpg)
 
 **May u needs 📩**
 
